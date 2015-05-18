@@ -1,6 +1,3 @@
-
-# dialog-app
-
 Dialog App
 ==========
 
